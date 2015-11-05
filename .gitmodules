@@ -4,3 +4,9 @@
 [submodule "hehao"]
 	path = hehao
 	url = https://github.com/woshihehao/Game
+[submodule "ningpengtao"]
+	path = ningpengtao
+	url = https://github.com/specific008/unit-test.git
+[submodule "zhangyunrui"]
+	path = zhangyunrui
+	url = https://github.com/SkyeyesXY/Unit-test
