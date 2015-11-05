@@ -1,6 +1,6 @@
-[submodule "Game"]
-	path = Game
-	url = https://github.com/woshihehao/Game
-[submodule "unit-test"]
-	path = unit-test
+[submodule "woonchao"]
+	path = woonchao
 	url = https://github.com/woonchao/unit-test
+[submodule "hehao"]
+	path = hehao
+	url = https://github.com/woshihehao/Game
