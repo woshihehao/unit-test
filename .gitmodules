@@ -1,0 +1,6 @@
+[submodule "Game"]
+	path = Game
+	url = https://github.com/woshihehao/Game
+[submodule "unit-test"]
+	path = unit-test
+	url = https://github.com/woonchao/unit-test
